@@ -1,0 +1,85 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self Help",
+      "publicationYear": 2018,
+      "description": "A practical guide to building good habits and breaking bad ones. James Clear shares proven strategies for forming good habits, breaking bad ones, and mastering the tiny behaviors that lead to remarkable results.",
+      "coverImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=560&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "publicationYear": 2016,
+      "description": "Rules for focused success in a distracted world. Cal Newport argues that the ability to perform deep work is becoming increasingly valuable and increasingly rare.",
+      "coverImage": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=560&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "publicationYear": 2020,
+      "description": "Timeless lessons on wealth, greed, and happiness. Money is not just numbers—it is deeply tied to our psychology, emotions, and personal stories.",
+      "coverImage": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=560&fit=crop"
+    },
+    {
+      "id": 4,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-Fi",
+      "publicationYear": 1965,
+      "description": "Set in the far future, Dune tells the story of young Paul Atreides, whose family accepts control of the desert planet Arrakis—the only source of the most valuable substance in the universe.",
+      "coverImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=560&fit=crop"
+    },
+    {
+      "id": 5,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publicationYear": 1949,
+      "description": "A chilling dystopia where Big Brother watches your every move. Winston Smith works for the Ministry of Truth, rewriting history to match the Party's ever-changing version of the past.",
+      "coverImage": "https://images.unsplash.com/photo-1495640388908-05fa85288e61?w=400&h=560&fit=crop"
+    },
+    {
+      "id": 6,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "publicationYear": 2008,
+      "description": "A handbook of agile software craftsmanship. Robert Martin and colleagues help you understand how to write code that is clean and how to transform messy code into clean code.",
+      "coverImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=560&fit=crop"
+    },
+    {
+      "id": 7,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "publicationYear": 1988,
+      "description": "A magical story about Santiago, an Andalusian shepherd boy, who yearns to travel in search of a worldly treasure. His quest leads him to riches far different from what he ever imagined.",
+      "coverImage": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=560&fit=crop"
+    },
+    {
+      "id": 8,
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "genre": "Business",
+      "publicationYear": 2014,
+      "description": "Notes on startups, or how to build the future. Every moment in business happens only once. The next Bill Gates will not build an operating system. The next Larry Page will not make a search engine.",
+      "coverImage": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=400&h=560&fit=crop"
+    },
+    {
+      "id": 9,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "publicationYear": 2011,
+      "description": "A brief history of humankind. From a renowned historian comes a groundbreaking narrative of humanity's creation and evolution—a number-one international best seller.",
+      "coverImage": "https://images.unsplash.com/photo-1589998059171-988d887df646?w=400&h=560&fit=crop"
+    }
+  ]
+}
