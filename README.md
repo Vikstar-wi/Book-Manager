@@ -9,7 +9,7 @@ Supports full CRUD operations, real-time search, genre filtering, and Google Boo
 
 | Platform | URL |
 |---|---|
-| Netlify | https://book-manger.netlify.app/ |
+| Netlify | https://book-manager1.netlify.app/ |
 
 ---
 
@@ -35,7 +35,7 @@ Supports full CRUD operations, real-time search, genre filtering, and Google Boo
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Vikstar-wi/Book-Manger.git
+git clone https://github.com/Vikstar-wi/Book-Manager.git
 cd Book-Manger
 ```
 
